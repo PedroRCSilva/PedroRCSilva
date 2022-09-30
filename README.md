@@ -8,7 +8,7 @@
 <hr>
  
 <p align="center"> <b>Volte sempre !</b> <img src="/.github/workflows/imagens/Hi.gif" width="30px" height="30px"> </p>
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/PedroRocs/count.svg" /></p>
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/PedroRCSilva/count.svg" /></p>
 
 <br>
 <hr>
