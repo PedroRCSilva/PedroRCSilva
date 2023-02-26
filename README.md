@@ -27,7 +27,7 @@
      <img align="center" alt="Pedro-JS" height="60" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
      <img align="center" alt="Pedro-Git" height="60" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
     <img align="center" alt="Pedro-Git" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg">
-       <img align="center" alt="Pedro-Git" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg">
+       <img align="center" alt="Pedro-Git" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original.svg">
    
 
 
