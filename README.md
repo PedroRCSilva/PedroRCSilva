@@ -15,7 +15,7 @@
 
 
 <div align="center" >
-  <a href="https://github.com/PedroRocs" >
+  <a href="https://github.com/PedroRCSilva" >
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=PedroRCSilva&show_icons=true&theme=dark&inline_all_commits=true&count_private=true" float="left" width="50%"/>
   <img height="150em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroRCSilva&layout=compact&langs_count=7&theme=dark" float="right"/>
 </div>
